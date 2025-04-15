@@ -8,7 +8,7 @@ Desenvolvedor apaixonado por tecnologia e programação. Sempre buscando aprende
 
 ## 🛠️ Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,git,github,java&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,git,github,java,react,nodejs&perline=5)](https://skillicons.dev)
 
 ## 📫 Como me encontrar
 
@@ -18,4 +18,4 @@ Desenvolvedor apaixonado por tecnologia e programação. Sempre buscando aprende
 ## 🎯 Objetivos
 
 - [ ] Aprender novas tecnologias
-- [ ] Desenvolver projetos pessoais interessantes
+- [ ] Desenvolver projetos pessoais
