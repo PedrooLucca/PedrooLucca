@@ -1,5 +1,3 @@
-# Olá, eu sou Pedro Lucca! 👋
-
 ## 📊 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrooLucca&show_icons=true&theme=dark)
@@ -17,4 +15,3 @@
 
 - [ ] Aprender novas tecnologias
 - [ ] Desenvolver projetos pessoais
-    
