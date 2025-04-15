@@ -1,7 +1,5 @@
 # Olá, eu sou Pedro Lucca! 👋
 
-Desenvolvedor apaixonado por tecnologia e programação. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades. 
-
 ## 📊 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrooLucca&show_icons=true&theme=dark)
@@ -19,3 +17,4 @@ Desenvolvedor apaixonado por tecnologia e programação. Sempre buscando aprende
 
 - [ ] Aprender novas tecnologias
 - [ ] Desenvolver projetos pessoais
+    
