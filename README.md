@@ -4,7 +4,7 @@
 
 ## 🛠️ Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,git,github,java,react,nodejs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,git,github,java,react,nodejs,python&perline=5)](https://skillicons.dev)
 
 ## 📫 Como me encontrar
 
