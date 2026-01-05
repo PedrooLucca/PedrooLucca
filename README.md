@@ -1,7 +1,3 @@
-## 📊 Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrooLucca&show_icons=true&theme=dark)
-
 ## 🛠️ Minhas Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,git,github,java,nodejs,python&perline=5)](https://skillicons.dev)
